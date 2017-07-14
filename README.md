@@ -1,3 +1,3 @@
-# scala-recursion
+# scala-funsets
 
-Functional Programming Principles in Scala: Assignment 1
+Functional Programming Principles in Scala: Assignment 2
